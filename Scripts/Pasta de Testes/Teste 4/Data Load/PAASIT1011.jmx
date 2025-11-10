@@ -79,8 +79,8 @@
       </CacheManager>
       <hashTree/>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group">
-        <intProp name="ThreadGroup.num_threads">50</intProp>
-        <intProp name="ThreadGroup.ramp_time">10</intProp>
+        <intProp name="ThreadGroup.num_threads">200</intProp>
+        <intProp name="ThreadGroup.ramp_time">20</intProp>
         <longProp name="ThreadGroup.duration">0</longProp>
         <longProp name="ThreadGroup.delay">0</longProp>
         <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
@@ -91,11 +91,11 @@
         </elementProp>
       </ThreadGroup>
       <hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Test Load">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Test Stress">
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://paa.sit.sdlc-quattrus.com/login" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://paa.sit.sdlc-quattrus.com/login">
             <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
             <stringProp name="HTTPSampler.port">0</stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
@@ -186,7 +186,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">testecargaPAASIT.csv</stringProp>
+          <stringProp name="filename">testeestressePAASIT1011.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>

@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1762799231333,746,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-1,text,true,,26077,511,4,4,https://paa.sit.sdlc-quattrus.com/login,745,0,414
+1762799231532,635,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-2,text,true,,26077,511,5,5,https://paa.sit.sdlc-quattrus.com/login,635,0,308
+1762799231734,681,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-3,text,true,,26077,511,6,6,https://paa.sit.sdlc-quattrus.com/login,681,0,302
+1762799231932,676,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-4,text,true,,26077,511,7,7,https://paa.sit.sdlc-quattrus.com/login,676,0,301
+1762799232133,697,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-5,text,true,,26077,511,8,8,https://paa.sit.sdlc-quattrus.com/login,697,0,307
+1762799232333,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-6,text,true,,26077,511,9,9,https://paa.sit.sdlc-quattrus.com/login,622,0,302
+1762799232533,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-7,text,true,,26077,511,10,10,https://paa.sit.sdlc-quattrus.com/login,623,0,304
+1762799232732,628,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-8,text,true,,26077,511,11,11,https://paa.sit.sdlc-quattrus.com/login,627,0,304
+1762799232933,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-9,text,true,,26077,511,12,12,https://paa.sit.sdlc-quattrus.com/login,624,0,303
+1762799233133,681,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-10,text,true,,26077,511,13,13,https://paa.sit.sdlc-quattrus.com/login,681,0,308
+1762799233333,896,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-11,text,true,,26085,511,15,15,https://paa.sit.sdlc-quattrus.com/login,745,0,309
+1762799233533,790,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-12,text,true,,26077,511,15,15,https://paa.sit.sdlc-quattrus.com/login,790,0,302
+1762799233733,687,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-13,text,true,,26077,511,16,16,https://paa.sit.sdlc-quattrus.com/login,687,0,303
+1762799233934,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-14,text,true,,26077,511,17,17,https://paa.sit.sdlc-quattrus.com/login,626,0,307
+1762799234133,636,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-15,text,true,,26077,511,18,18,https://paa.sit.sdlc-quattrus.com/login,636,0,304
+1762799234333,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-16,text,true,,26080,511,19,19,https://paa.sit.sdlc-quattrus.com/login,626,0,304
+1762799234533,631,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-17,text,true,,26077,511,20,20,https://paa.sit.sdlc-quattrus.com/login,631,0,304
+1762799234732,679,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-18,text,true,,26077,511,21,21,https://paa.sit.sdlc-quattrus.com/login,679,0,303
+1762799234933,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-19,text,true,,26077,511,22,22,https://paa.sit.sdlc-quattrus.com/login,625,0,303
+1762799235133,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-20,text,true,,26077,511,23,23,https://paa.sit.sdlc-quattrus.com/login,625,0,306
+1762799235332,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-21,text,true,,26077,511,24,24,https://paa.sit.sdlc-quattrus.com/login,624,0,306
+1762799235533,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-22,text,true,,26077,511,25,25,https://paa.sit.sdlc-quattrus.com/login,626,0,304
+1762799235732,631,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-23,text,true,,26077,511,26,26,https://paa.sit.sdlc-quattrus.com/login,631,0,307
+1762799235933,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-24,text,true,,26077,511,27,27,https://paa.sit.sdlc-quattrus.com/login,626,0,303
+1762799236133,629,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-25,text,true,,26077,511,28,28,https://paa.sit.sdlc-quattrus.com/login,628,0,310
+1762799236332,638,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-26,text,true,,26077,511,29,29,https://paa.sit.sdlc-quattrus.com/login,638,0,304
+1762799236533,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-27,text,true,,26077,511,30,30,https://paa.sit.sdlc-quattrus.com/login,626,0,303
+1762799236732,640,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-28,text,true,,26077,511,31,31,https://paa.sit.sdlc-quattrus.com/login,640,0,307
+1762799236933,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-29,text,true,,26077,511,32,32,https://paa.sit.sdlc-quattrus.com/login,621,0,303
+1762799237134,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-30,text,true,,26077,511,33,33,https://paa.sit.sdlc-quattrus.com/login,624,0,304
+1762799237332,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-31,text,true,,26077,511,34,34,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1762799237533,629,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-32,text,true,,26077,511,35,35,https://paa.sit.sdlc-quattrus.com/login,629,0,305
+1762799237734,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-33,text,true,,26072,511,36,36,https://paa.sit.sdlc-quattrus.com/login,619,0,301
+1762799237933,630,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-34,text,true,,26077,511,37,37,https://paa.sit.sdlc-quattrus.com/login,630,0,301
+1762799238133,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-35,text,true,,26077,511,38,38,https://paa.sit.sdlc-quattrus.com/login,626,0,306
+1762799238334,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-36,text,true,,26077,511,39,39,https://paa.sit.sdlc-quattrus.com/login,624,0,303
+1762799238533,631,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-37,text,true,,26077,511,40,40,https://paa.sit.sdlc-quattrus.com/login,630,0,306
+1762799238734,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-38,text,true,,26077,511,41,41,https://paa.sit.sdlc-quattrus.com/login,623,0,305
+1762799238933,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-39,text,true,,26077,511,42,42,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1762799239134,629,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-40,text,true,,26077,511,43,43,https://paa.sit.sdlc-quattrus.com/login,628,0,304
+1762799239332,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-41,text,true,,26077,511,44,44,https://paa.sit.sdlc-quattrus.com/login,625,0,304
+1762799239533,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-42,text,true,,26077,511,45,45,https://paa.sit.sdlc-quattrus.com/login,627,0,309
+1762799239733,678,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-43,text,true,,26085,511,46,46,https://paa.sit.sdlc-quattrus.com/login,527,0,304
+1762799239932,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-44,text,true,,26077,511,47,47,https://paa.sit.sdlc-quattrus.com/login,621,0,300
+1762799240133,824,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-45,text,true,,26077,511,49,49,https://paa.sit.sdlc-quattrus.com/login,824,0,304
+1762799240333,688,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-46,text,true,,26072,511,49,49,https://paa.sit.sdlc-quattrus.com/login,688,0,305
+1762799240533,629,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-47,text,true,,26077,511,50,50,https://paa.sit.sdlc-quattrus.com/login,628,0,305
+1762799240733,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-48,text,true,,26077,511,50,50,https://paa.sit.sdlc-quattrus.com/login,625,0,304
+1762799240934,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-49,text,true,,26077,511,50,50,https://paa.sit.sdlc-quattrus.com/login,627,0,307
+1762799241133,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,Thread Group 1-50,text,true,,26077,511,50,50,https://paa.sit.sdlc-quattrus.com/login,625,0,304
+1762799300090,791,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-1,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,462,0,307
+1762799300090,462,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-1,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,462,0,307
+1762799300553,328,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-1,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,328,0,0
+1762799300176,796,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-2,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,456,0,301
+1762799300176,456,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-2,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,456,0,301
+1762799300632,340,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-2,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,337,0,0
+1762799300425,781,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-3,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,456,0,301
+1762799300425,457,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-3,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,456,0,301
+1762799300882,324,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-3,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,324,0,0
+1762799300616,776,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-4,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,452,0,300
+1762799300616,452,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-4,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,452,0,300
+1762799301068,324,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-4,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,174,0,0
+1762799300839,771,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-5,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,453,0,301
+1762799300839,453,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-5,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,453,0,301
+1762799301292,318,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-5,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,318,0,0
+1762799300963,776,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-6,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,454,0,300
+1762799300963,454,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-6,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,454,0,300
+1762799301417,322,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-6,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,321,0,0
+1762799301166,774,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-7,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,452,0,300
+1762799301166,452,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-7,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,452,0,300
+1762799301619,321,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-7,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,320,0,0
+1762799301368,778,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-8,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,455,0,302
+1762799301368,455,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-8,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,455,0,302
+1762799301824,322,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-8,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,321,0,0
+1762799301565,776,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-9,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,454,0,301
+1762799301565,454,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-9,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,454,0,301
+1762799302019,322,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-9,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,321,0,0
+1762799301823,776,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-10,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,457,0,304
+1762799301823,457,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-10,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,457,0,304
+1762799302280,319,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-10,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,170,0,0
+1762799302237,785,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-11,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,454,0,300
+1762799302237,454,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-11,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,454,0,300
+1762799302691,331,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-11,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,331,0,0
+1762799302331,784,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-12,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,455,0,302
+1762799302331,455,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-12,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,455,0,302
+1762799302786,329,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-12,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,328,0,0
+1762799302429,797,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-13,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,455,0,302
+1762799302429,455,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-13,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,455,0,302
+1762799302884,342,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-13,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,341,0,0
+1762799302567,786,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-14,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,462,0,309
+1762799302567,462,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-14,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,462,0,309
+1762799303028,325,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-14,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,325,0,0
+1762799302776,938,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-15,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,466,0,308
+1762799302776,466,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-15,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,466,0,308
+1762799303242,472,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-15,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,472,0,0
+1762799302967,854,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-16,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,495,0,309
+1762799302967,495,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-16,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,495,0,309
+1762799303462,359,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-16,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,358,0,0
+1762799303170,811,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-17,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,493,0,304
+1762799303170,494,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-17,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,493,0,304
+1762799303664,317,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-17,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,317,0,0
+1762799303417,779,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-18,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,460,0,306
+1762799303417,460,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-18,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,460,0,306
+1762799303877,319,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-18,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,319,0,0
+1762799303565,779,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-19,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,454,0,301
+1762799303565,454,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-19,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,454,0,301
+1762799304019,325,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-19,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,321,0,0
+1762799303764,847,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-20,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,458,0,305
+1762799303764,458,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-20,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,458,0,305
+1762799304223,388,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-20,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,239,0,0
+1762799303962,1115,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-21,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,500,0,302
+1762799303962,500,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-21,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,500,0,302
+1762799304462,615,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-21,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,466,0,0
+1762799304166,1055,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-22,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,706,0,306
+1762799304166,706,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-22,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,706,0,306
+1762799304872,349,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-22,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,349,0,0
+1762799304370,950,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-23,text,true,,26131,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,524,0,307
+1762799304370,524,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-23,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,524,0,307
+1762799304894,426,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-23,text,true,,25973,535,50,50,https://paa.sit.sdlc-quattrus.com/login,277,0,0
+1762799304567,784,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-24,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,453,0,300
+1762799304567,453,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-24,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,453,0,300
+1762799305020,331,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-24,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,179,0,0
+1762799304768,819,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-25,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,490,0,301
+1762799304768,490,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-25,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,490,0,301
+1762799305259,328,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-25,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,177,0,0
+1762799304977,787,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-26,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,461,0,302
+1762799304977,461,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-26,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,461,0,302
+1762799305439,325,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-26,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,325,0,0
+1762799305165,806,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-27,text,true,,26131,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,454,0,301
+1762799305165,454,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-27,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,454,0,301
+1762799305619,352,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-27,text,true,,25973,535,50,50,https://paa.sit.sdlc-quattrus.com/login,189,0,0
+1762799305379,810,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-28,text,true,,26123,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,463,0,300
+1762799305379,463,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-28,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,463,0,300
+1762799305842,347,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-28,text,true,,25965,535,50,50,https://paa.sit.sdlc-quattrus.com/login,347,0,0
+1762799305561,964,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-29,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,475,0,310
+1762799305561,475,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-29,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,475,0,310
+1762799306037,488,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-29,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,329,0,0
+1762799305765,861,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-30,text,true,,26123,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,516,0,327
+1762799305765,516,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-30,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,516,0,327
+1762799306281,345,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-30,text,true,,25965,535,50,50,https://paa.sit.sdlc-quattrus.com/login,345,0,0
+1762799305960,988,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-31,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,460,0,305
+1762799305960,460,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-31,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,460,0,305
+1762799306421,527,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-31,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,525,0,0
+1762799306168,880,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-32,text,true,,26128,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,530,0,305
+1762799306168,531,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-32,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,530,0,305
+1762799306699,349,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-32,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,349,0,0
+1762799306360,1169,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-33,text,true,,26136,1065,50,50,https://paa.sit.sdlc-quattrus.com/login,483,0,314
+1762799306360,483,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-33,,true,,158,530,50,50,https://paa.sit.sdlc-quattrus.com/,483,0,314
+1762799306843,686,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-33,text,true,,25978,535,50,50,https://paa.sit.sdlc-quattrus.com/login,536,0,0
+1762799306774,1218,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-1,text,true,,26128,1069,50,50,https://paa.sit.sdlc-quattrus.com/login,157,0,0
+1762799306774,157,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-1,,true,,158,534,50,50,https://paa.sit.sdlc-quattrus.com/2311,157,0,0
+1762799306932,1060,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-1,text,true,,25970,535,50,50,https://paa.sit.sdlc-quattrus.com/login,1060,0,0
+1762799231332,2755,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,78341,2645,50,50,null,1364,73905,721
+1762799306864,1405,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-2,text,true,,26131,1069,49,49,https://paa.sit.sdlc-quattrus.com/login,224,0,0
+1762799306864,224,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-2,,true,,158,534,49,49,https://paa.sit.sdlc-quattrus.com/2311,224,0,0
+1762799307088,1181,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-2,text,true,,25973,535,49,49,https://paa.sit.sdlc-quattrus.com/login,986,0,0
+1762799231531,2836,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,78336,2645,49,49,null,1315,73903,609
+1762799306569,1861,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-34,text,true,,26128,1065,48,48,https://paa.sit.sdlc-quattrus.com/login,522,0,304
+1762799306569,522,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-34,,true,,158,530,48,48,https://paa.sit.sdlc-quattrus.com/,522,0,304
+1762799307091,1339,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-34,text,true,,25970,535,48,48,https://paa.sit.sdlc-quattrus.com/login,1332,0,0
+1762799306766,1768,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-35,text,true,,26128,1065,48,48,https://paa.sit.sdlc-quattrus.com/login,512,0,302
+1762799306766,512,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-35,,true,,158,530,48,48,https://paa.sit.sdlc-quattrus.com/,512,0,302
+1762799307278,1256,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-35,text,true,,25970,535,48,48,https://paa.sit.sdlc-quattrus.com/login,1256,0,0
+1762799307098,1471,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-3,text,true,,26128,1069,48,48,https://paa.sit.sdlc-quattrus.com/login,385,0,0
+1762799307098,385,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-3,,true,,158,534,48,48,https://paa.sit.sdlc-quattrus.com/2311,385,0,0
+1762799307483,1086,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-3,text,true,,25970,535,48,48,https://paa.sit.sdlc-quattrus.com/login,1085,0,0
+1762799231733,2933,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,78333,2645,48,48,null,1522,73903,603
+1762799306964,1661,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-36,text,true,,26128,1065,47,47,https://paa.sit.sdlc-quattrus.com/login,597,0,306
+1762799306964,597,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-36,,true,,158,530,47,47,https://paa.sit.sdlc-quattrus.com/,597,0,306
+1762799307561,1064,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-36,text,true,,25970,535,47,47,https://paa.sit.sdlc-quattrus.com/login,1063,0,0
+1762799307502,1365,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-5,text,true,,26128,1069,47,47,https://paa.sit.sdlc-quattrus.com/login,392,0,0
+1762799307502,392,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-5,,true,,158,534,47,47,https://paa.sit.sdlc-quattrus.com/2311,392,0,0
+1762799307895,972,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-5,text,true,,25970,535,47,47,https://paa.sit.sdlc-quattrus.com/login,971,0,0
+1762799232133,2833,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,78333,2645,47,47,null,1542,73900,608
+1762799307284,1584,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-4,text,true,,26136,1069,46,46,https://paa.sit.sdlc-quattrus.com/login,408,0,0
+1762799307284,408,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-4,,true,,158,534,46,46,https://paa.sit.sdlc-quattrus.com/2311,408,0,0
+1762799307694,1174,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-4,text,true,,25978,535,46,46,https://paa.sit.sdlc-quattrus.com/login,1174,0,0
+1762799231931,3036,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,78349,2645,46,46,null,1536,73901,601
+1762799307170,1762,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-37,text,true,,26136,1065,45,45,https://paa.sit.sdlc-quattrus.com/login,710,0,305
+1762799307170,710,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-37,,true,,158,530,45,45,https://paa.sit.sdlc-quattrus.com/,710,0,305
+1762799307881,1051,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-37,text,true,,25978,535,45,45,https://paa.sit.sdlc-quattrus.com/login,900,0,0
+1762799307631,1341,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-6,text,true,,26136,1069,45,45,https://paa.sit.sdlc-quattrus.com/login,330,0,0
+1762799307631,330,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-6,,true,,158,534,45,45,https://paa.sit.sdlc-quattrus.com/2311,330,0,0
+1762799307963,1009,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-6,text,true,,25978,535,45,45,https://paa.sit.sdlc-quattrus.com/login,998,0,0
+1762799232332,2739,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,78341,2645,45,45,null,1406,73900,602
+1762799307364,1958,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-38,text,true,,26128,1065,44,44,https://paa.sit.sdlc-quattrus.com/login,807,0,306
+1762799307364,807,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-38,,true,,158,530,44,44,https://paa.sit.sdlc-quattrus.com/,807,0,306
+1762799308172,1150,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-38,text,true,,25970,535,44,44,https://paa.sit.sdlc-quattrus.com/login,1150,0,0
+1762799307833,1644,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-7,text,true,,26136,1069,44,44,https://paa.sit.sdlc-quattrus.com/login,243,0,0
+1762799307833,243,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-7,,true,,158,534,44,44,https://paa.sit.sdlc-quattrus.com/2311,243,0,0
+1762799308076,1401,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-7,text,true,,25978,535,44,44,https://paa.sit.sdlc-quattrus.com/login,1295,0,0
+1762799232531,3042,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,78341,2645,44,44,null,1318,73903,604
+1762799308039,1438,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-8,text,true,,26136,1069,44,44,https://paa.sit.sdlc-quattrus.com/login,235,0,0
+1762799308039,235,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-8,,true,,158,534,44,44,https://paa.sit.sdlc-quattrus.com/2311,235,0,0
+1762799308275,1202,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-8,text,true,,25978,535,44,44,https://paa.sit.sdlc-quattrus.com/login,1101,0,0
+1762799232732,2844,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,78341,2645,44,44,null,1317,73902,606
+1762799307562,1963,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-39,text,true,,26136,1065,42,42,https://paa.sit.sdlc-quattrus.com/login,711,0,302
+1762799307562,711,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-39,,true,,158,530,42,42,https://paa.sit.sdlc-quattrus.com/,711,0,302
+1762799308275,1250,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-39,text,true,,25978,535,42,42,https://paa.sit.sdlc-quattrus.com/login,1101,0,0
+1762799307770,2054,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-40,text,true,,26123,1065,42,42,https://paa.sit.sdlc-quattrus.com/login,611,0,306
+1762799307770,614,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-40,,true,,158,530,42,42,https://paa.sit.sdlc-quattrus.com/,611,0,306
+1762799308385,1439,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-40,text,true,,25965,535,42,42,https://paa.sit.sdlc-quattrus.com/login,1439,0,0
+1762799307964,2116,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-41,text,true,,26136,1065,42,42,https://paa.sit.sdlc-quattrus.com/login,502,0,307
+1762799307964,502,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-41,,true,,158,530,42,42,https://paa.sit.sdlc-quattrus.com/,502,0,307
+1762799308467,1613,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-41,text,true,,25978,535,42,42,https://paa.sit.sdlc-quattrus.com/login,1403,0,0
+1762799308234,1926,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-9,text,true,,26136,1069,42,42,https://paa.sit.sdlc-quattrus.com/login,232,0,0
+1762799308234,232,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-9,,true,,158,534,42,42,https://paa.sit.sdlc-quattrus.com/2311,232,0,0
+1762799308467,1693,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-9,text,true,,25978,535,42,42,https://paa.sit.sdlc-quattrus.com/login,1403,0,0
+1762799232932,3326,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,78341,2645,42,42,null,1310,73903,604
+1762799308167,2598,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-42,text,true,,26136,1065,41,41,https://paa.sit.sdlc-quattrus.com/login,603,0,305
+1762799308167,603,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-42,,true,,158,530,41,41,https://paa.sit.sdlc-quattrus.com/,603,0,305
+1762799308771,1994,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-42,text,true,,25978,535,41,41,https://paa.sit.sdlc-quattrus.com/login,1598,0,0
+1762799308493,2470,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-10,text,true,,26136,1069,41,41,https://paa.sit.sdlc-quattrus.com/login,370,0,0
+1762799308493,370,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-10,,true,,158,534,41,41,https://paa.sit.sdlc-quattrus.com/2311,370,0,0
+1762799308863,2100,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-10,text,true,,25978,535,41,41,https://paa.sit.sdlc-quattrus.com/login,2000,0,0
+1762799233133,3927,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,78349,2645,41,41,null,1508,73904,612
+1762799308917,2053,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-11,text,true,,26128,1069,40,40,https://paa.sit.sdlc-quattrus.com/login,154,0,0
+1762799308917,154,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-11,,true,,158,534,40,40,https://paa.sit.sdlc-quattrus.com/2311,154,0,0
+1762799309072,1898,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-11,text,true,,25970,535,40,40,https://paa.sit.sdlc-quattrus.com/login,1898,0,0
+1762799233333,3734,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,78341,2645,40,40,null,1353,73904,609
+1762799308418,2596,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-43,text,true,,26136,1065,39,39,https://paa.sit.sdlc-quattrus.com/login,546,0,303
+1762799308418,546,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-43,,true,,158,530,39,39,https://paa.sit.sdlc-quattrus.com/,546,0,303
+1762799308964,2050,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-43,text,true,,25978,535,39,39,https://paa.sit.sdlc-quattrus.com/login,1900,0,0
+1762799308560,2558,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-44,text,true,,26128,1065,39,39,https://paa.sit.sdlc-quattrus.com/login,606,0,304
+1762799308560,606,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-44,,true,,158,530,39,39,https://paa.sit.sdlc-quattrus.com/,606,0,304
+1762799309166,1952,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-44,text,true,,25970,535,39,39,https://paa.sit.sdlc-quattrus.com/login,1951,0,0
+1762799309122,2348,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-13,text,true,,26136,1069,39,39,https://paa.sit.sdlc-quattrus.com/login,355,0,0
+1762799309122,355,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-13,,true,,158,534,39,39,https://paa.sit.sdlc-quattrus.com/2311,355,0,0
+1762799309477,1993,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-13,text,true,,25978,535,39,39,https://paa.sit.sdlc-quattrus.com/login,1985,0,0
+1762799233732,3832,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,78341,2645,39,39,null,1497,73906,605
+1762799309247,2315,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-14,text,true,,26136,1069,38,38,https://paa.sit.sdlc-quattrus.com/login,416,0,0
+1762799309247,416,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-14,,true,,158,534,38,38,https://paa.sit.sdlc-quattrus.com/2311,416,0,0
+1762799309663,1899,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-14,text,true,,25978,535,38,38,https://paa.sit.sdlc-quattrus.com/login,1800,0,0
+1762799233933,3727,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,78341,2645,38,38,null,1504,73903,616
+1762799309010,2573,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-12,text,true,,26128,1069,37,37,https://paa.sit.sdlc-quattrus.com/login,651,0,0
+1762799309010,651,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-12,,true,,158,534,37,37,https://paa.sit.sdlc-quattrus.com/2311,651,0,0
+1762799309661,1922,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-12,text,true,,25970,535,37,37,https://paa.sit.sdlc-quattrus.com/login,1922,0,0
+1762799233532,4147,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,78333,2645,37,37,null,1896,73905,604
+1762799308964,2647,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-45,text,true,,26136,1065,36,36,https://paa.sit.sdlc-quattrus.com/login,609,0,304
+1762799308964,609,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-45,,true,,158,530,36,36,https://paa.sit.sdlc-quattrus.com/,609,0,304
+1762799309573,2038,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-45,text,true,,25978,535,36,36,https://paa.sit.sdlc-quattrus.com/login,1889,0,0
+1762799309028,2685,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-46,text,true,,26128,1065,36,36,https://paa.sit.sdlc-quattrus.com/login,542,0,303
+1762799309028,542,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-46,,true,,158,530,36,36,https://paa.sit.sdlc-quattrus.com/,542,0,303
+1762799309571,2142,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-46,text,true,,25970,535,36,36,https://paa.sit.sdlc-quattrus.com/login,2142,0,0
+1762799309715,2159,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-16,text,true,,26136,1069,36,36,https://paa.sit.sdlc-quattrus.com/login,350,0,0
+1762799309715,350,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-16,,true,,158,534,36,36,https://paa.sit.sdlc-quattrus.com/2311,350,0,0
+1762799310066,1808,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-16,text,true,,25978,535,36,36,https://paa.sit.sdlc-quattrus.com/login,1802,0,0
+1762799234333,3639,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,78344,2645,36,36,null,1471,73903,613
+1762799309609,2268,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-15,text,true,,26136,1069,35,35,https://paa.sit.sdlc-quattrus.com/login,465,0,0
+1762799309609,465,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-15,,true,,158,534,35,35,https://paa.sit.sdlc-quattrus.com/2311,465,0,0
+1762799310074,1803,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-15,text,true,,25978,535,35,35,https://paa.sit.sdlc-quattrus.com/login,1796,0,0
+1762799234132,3842,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,78341,2645,35,35,null,1567,73903,612
+1762799309876,2004,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-17,text,true,,26128,1069,34,34,https://paa.sit.sdlc-quattrus.com/login,294,0,0
+1762799309876,294,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-17,,true,,158,534,34,34,https://paa.sit.sdlc-quattrus.com/2311,294,0,0
+1762799310170,1710,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-17,text,true,,25970,535,34,34,https://paa.sit.sdlc-quattrus.com/login,1710,0,0
+1762799234533,3446,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,78333,2645,34,34,null,1418,73902,608
+1762799310239,1743,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-19,text,true,,26131,1069,33,33,https://paa.sit.sdlc-quattrus.com/login,339,0,0
+1762799310239,339,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-19,,true,,158,534,33,33,https://paa.sit.sdlc-quattrus.com/2311,339,0,0
+1762799310578,1404,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-19,text,true,,25973,535,33,33,https://paa.sit.sdlc-quattrus.com/login,1394,0,0
+1762799234932,3147,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,78336,2645,33,33,null,1418,73903,604
+1762799309171,2850,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-47,text,true,,26136,1065,32,32,https://paa.sit.sdlc-quattrus.com/login,899,0,306
+1762799309171,899,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-47,,true,,158,530,32,32,https://paa.sit.sdlc-quattrus.com/,899,0,306
+1762799310070,1951,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-47,text,true,,25978,535,32,32,https://paa.sit.sdlc-quattrus.com/login,1799,0,0
+1762799309366,2665,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-48,text,true,,26136,1065,32,32,https://paa.sit.sdlc-quattrus.com/login,713,0,301
+1762799309366,713,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-48,,true,,158,530,32,32,https://paa.sit.sdlc-quattrus.com/,713,0,301
+1762799310079,1952,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-48,text,true,,25978,535,32,32,https://paa.sit.sdlc-quattrus.com/login,1951,0,0
+1762799310090,1985,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-18,text,true,,26128,1069,32,32,https://paa.sit.sdlc-quattrus.com/login,871,0,0
+1762799310090,871,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-18,,true,,158,534,32,32,https://paa.sit.sdlc-quattrus.com/2311,871,0,0
+1762799310961,1114,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-18,text,true,,25970,535,32,32,https://paa.sit.sdlc-quattrus.com/login,1113,0,0
+1762799234732,3443,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,78333,2645,32,32,null,2010,73900,609
+1762799309766,2367,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-50,text,true,,26128,1065,31,31,https://paa.sit.sdlc-quattrus.com/login,895,0,303
+1762799309766,895,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-50,,true,,158,530,31,31,https://paa.sit.sdlc-quattrus.com/,895,0,303
+1762799310661,1472,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-50,text,true,,25970,535,31,31,https://paa.sit.sdlc-quattrus.com/login,1471,0,0
+1762799309570,2650,https://paa.sit.sdlc-quattrus.com/,200,OK,Thread Group 1-49,text,true,,26128,1065,31,31,https://paa.sit.sdlc-quattrus.com/login,1193,0,302
+1762799309570,1193,https://paa.sit.sdlc-quattrus.com/-0,307,Temporary Redirect,Thread Group 1-49,,true,,158,530,31,31,https://paa.sit.sdlc-quattrus.com/,1193,0,302
+1762799310763,1457,https://paa.sit.sdlc-quattrus.com/-1,200,OK,Thread Group 1-49,text,true,,25970,535,31,31,https://paa.sit.sdlc-quattrus.com/login,1457,0,0
+1762799310971,1299,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-21,text,true,,26136,1069,31,31,https://paa.sit.sdlc-quattrus.com/login,390,0,0
+1762799310971,390,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-21,,true,,158,534,31,31,https://paa.sit.sdlc-quattrus.com/2311,390,0,0
+1762799311362,908,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-21,text,true,,25978,535,31,31,https://paa.sit.sdlc-quattrus.com/login,816,0,0
+1762799235332,3038,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,78349,2645,31,31,null,1514,73900,608
+1762799310505,1781,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-20,text,true,,26136,1069,30,30,https://paa.sit.sdlc-quattrus.com/login,856,0,0
+1762799310505,856,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-20,,true,,158,534,30,30,https://paa.sit.sdlc-quattrus.com/2311,856,0,0
+1762799311362,924,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-20,text,true,,25978,535,30,30,https://paa.sit.sdlc-quattrus.com/login,919,0,0
+1762799235132,3253,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,78349,2645,30,30,null,1939,73901,611
+1762799311246,1041,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-24,text,true,,26136,1069,30,30,https://paa.sit.sdlc-quattrus.com/login,218,0,0
+1762799311246,218,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-24,,true,,158,534,30,30,https://paa.sit.sdlc-quattrus.com/2311,218,0,0
+1762799311464,823,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-24,text,true,,25978,535,30,30,https://paa.sit.sdlc-quattrus.com/login,817,0,0
+1762799235932,2452,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,78349,2645,30,30,null,1297,73903,603
+1762799311115,1174,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-22,text,true,,26136,1069,28,28,https://paa.sit.sdlc-quattrus.com/login,351,0,0
+1762799311115,351,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-22,,true,,158,534,28,28,https://paa.sit.sdlc-quattrus.com/2311,351,0,0
+1762799311466,823,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-22,text,true,,25978,535,28,28,https://paa.sit.sdlc-quattrus.com/login,815,0,0
+1762799235532,2856,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,78349,2645,28,28,null,1683,73902,610
+1762799311214,1147,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-23,text,true,,26123,1069,27,27,https://paa.sit.sdlc-quattrus.com/login,253,0,0
+1762799311214,253,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-23,,true,,158,534,27,27,https://paa.sit.sdlc-quattrus.com/2311,253,0,0
+1762799311467,894,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-23,text,true,,25965,535,27,27,https://paa.sit.sdlc-quattrus.com/login,893,0,0
+1762799235731,2728,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,78331,2645,27,27,null,1408,73902,614
+1762799311482,881,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-25,text,true,,26128,1069,26,26,https://paa.sit.sdlc-quattrus.com/login,287,0,0
+1762799311482,287,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-25,,true,,158,534,26,26,https://paa.sit.sdlc-quattrus.com/2311,287,0,0
+1762799311770,593,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-25,text,true,,25970,535,26,26,https://paa.sit.sdlc-quattrus.com/login,592,0,0
+1762799236132,2329,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,78341,2645,26,26,null,1405,73902,611
+1762799311658,711,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-26,text,true,,26128,1069,25,25,https://paa.sit.sdlc-quattrus.com/login,215,0,0
+1762799311658,215,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-26,,true,,158,534,25,25,https://paa.sit.sdlc-quattrus.com/2311,215,0,0
+1762799311873,496,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-26,text,true,,25970,535,25,25,https://paa.sit.sdlc-quattrus.com/login,496,0,0
+1762799236332,2136,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,78333,2645,25,25,null,1314,73902,606
+1762799311865,512,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-27,text,true,,26128,1069,24,24,https://paa.sit.sdlc-quattrus.com/login,196,0,0
+1762799311865,196,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-27,,true,,158,534,24,24,https://paa.sit.sdlc-quattrus.com/2311,196,0,0
+1762799312061,316,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-27,text,true,,25970,535,24,24,https://paa.sit.sdlc-quattrus.com/login,316,0,0
+1762799236532,1944,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,78336,2645,24,24,null,1276,73902,604
+1762799312083,682,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-28,text,true,,26128,1069,23,23,https://paa.sit.sdlc-quattrus.com/login,183,0,0
+1762799312083,184,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-28,,true,,158,534,23,23,https://paa.sit.sdlc-quattrus.com/2311,183,0,0
+1762799312267,498,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-28,text,true,,25970,535,23,23,https://paa.sit.sdlc-quattrus.com/login,497,0,0
+1762799236732,2132,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,78328,2645,23,23,null,1286,73901,607
+1762799312420,459,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-29,text,true,,26123,1069,22,22,https://paa.sit.sdlc-quattrus.com/login,241,0,0
+1762799312420,241,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-29,,true,,158,534,22,22,https://paa.sit.sdlc-quattrus.com/2311,241,0,0
+1762799312660,219,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-29,text,true,,25965,535,22,22,https://paa.sit.sdlc-quattrus.com/login,218,0,0
+1762799236932,2045,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,78336,2645,22,22,null,1337,73904,613
+1762799312521,455,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-30,text,true,,26128,1069,21,21,https://paa.sit.sdlc-quattrus.com/login,240,0,0
+1762799312521,240,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-30,,true,,158,534,21,21,https://paa.sit.sdlc-quattrus.com/2311,240,0,0
+1762799312761,215,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-30,text,true,,25970,535,21,21,https://paa.sit.sdlc-quattrus.com/login,215,0,0
+1762799237133,1940,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,78328,2645,21,21,null,1380,73904,631
+1762799312841,331,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-31,text,true,,26123,1069,20,20,https://paa.sit.sdlc-quattrus.com/login,157,0,0
+1762799312841,157,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-31,,true,,158,534,20,20,https://paa.sit.sdlc-quattrus.com/2311,157,0,0
+1762799312998,174,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-31,text,true,,25965,535,20,20,https://paa.sit.sdlc-quattrus.com/login,174,0,0
+1762799237331,1941,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,78328,2645,20,20,null,1239,73903,608
+1762799312941,324,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-32,text,true,,26128,1069,19,19,https://paa.sit.sdlc-quattrus.com/login,155,0,0
+1762799312941,155,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-32,,true,,158,534,19,19,https://paa.sit.sdlc-quattrus.com/2311,155,0,0
+1762799313096,169,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-32,text,true,,25970,535,19,19,https://paa.sit.sdlc-quattrus.com/login,168,0,0
+1762799237533,1833,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,78333,2645,19,19,null,1314,73901,610
+1762799313423,330,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-33,text,true,,26128,1069,18,18,https://paa.sit.sdlc-quattrus.com/login,157,0,0
+1762799313423,157,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-33,,true,,158,534,18,18,https://paa.sit.sdlc-quattrus.com/2311,157,0,0
+1762799313580,173,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-33,text,true,,25970,535,18,18,https://paa.sit.sdlc-quattrus.com/login,172,0,0
+1762799237733,2118,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,78336,2645,18,18,null,1259,73903,615
+1762799314324,351,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-34,text,true,,26128,1069,17,17,https://paa.sit.sdlc-quattrus.com/login,156,0,0
+1762799314324,156,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-34,,true,,158,534,17,17,https://paa.sit.sdlc-quattrus.com/2311,156,0,0
+1762799314481,194,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-34,text,true,,25970,535,17,17,https://paa.sit.sdlc-quattrus.com/login,194,0,0
+1762799237932,2842,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,78333,2645,17,17,null,1308,73903,605
+1762799314430,438,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-35,text,true,,26128,1069,16,16,https://paa.sit.sdlc-quattrus.com/login,157,0,0
+1762799314430,157,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-35,,true,,158,534,16,16,https://paa.sit.sdlc-quattrus.com/2311,157,0,0
+1762799314588,280,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-35,text,true,,25970,535,16,16,https://paa.sit.sdlc-quattrus.com/login,280,0,0
+1762799238132,2832,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,78333,2645,16,16,null,1295,73906,608
+1762799314518,450,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-36,text,true,,26128,1069,15,15,https://paa.sit.sdlc-quattrus.com/login,241,0,0
+1762799314518,241,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-36,,true,,158,534,15,15,https://paa.sit.sdlc-quattrus.com/2311,241,0,0
+1762799314760,208,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-36,text,true,,25970,535,15,15,https://paa.sit.sdlc-quattrus.com/login,207,0,0
+1762799238333,2735,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,78333,2645,15,15,null,1462,73901,609
+1762799314825,326,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-37,text,true,,26128,1069,14,14,https://paa.sit.sdlc-quattrus.com/login,156,0,0
+1762799314825,156,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-37,,true,,158,534,14,14,https://paa.sit.sdlc-quattrus.com/2311,156,0,0
+1762799314981,170,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-37,text,true,,25970,535,14,14,https://paa.sit.sdlc-quattrus.com/login,169,0,0
+1762799238532,2719,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,78341,2645,14,14,null,1496,73901,611
+1762799315214,345,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-38,text,true,,26128,1069,13,13,https://paa.sit.sdlc-quattrus.com/login,156,0,0
+1762799315214,156,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-38,,true,,158,534,13,13,https://paa.sit.sdlc-quattrus.com/2311,156,0,0
+1762799315370,189,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-38,text,true,,25970,535,13,13,https://paa.sit.sdlc-quattrus.com/login,189,0,0
+1762799238733,2926,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,78333,2645,13,13,null,1586,73902,611
+1762799315418,327,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-39,text,true,,26128,1069,12,12,https://paa.sit.sdlc-quattrus.com/login,155,0,0
+1762799315418,155,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-39,,true,,158,534,12,12,https://paa.sit.sdlc-quattrus.com/2311,155,0,0
+1762799315573,172,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-39,text,true,,25970,535,12,12,https://paa.sit.sdlc-quattrus.com/login,171,0,0
+1762799238932,2912,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,78341,2645,12,12,null,1488,73902,605
+1762799315716,341,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-40,text,true,,26128,1069,11,11,https://paa.sit.sdlc-quattrus.com/login,159,0,0
+1762799315716,160,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-40,,true,,158,534,11,11,https://paa.sit.sdlc-quattrus.com/2311,159,0,0
+1762799315876,181,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-40,text,true,,25970,535,11,11,https://paa.sit.sdlc-quattrus.com/login,178,0,0
+1762799239133,3024,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,78328,2645,11,11,null,1398,73901,610
+1762799315973,331,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-41,text,true,,26128,1069,10,10,https://paa.sit.sdlc-quattrus.com/login,154,0,0
+1762799315973,154,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-41,,true,,158,534,10,10,https://paa.sit.sdlc-quattrus.com/2311,154,0,0
+1762799316127,177,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-41,text,true,,25970,535,10,10,https://paa.sit.sdlc-quattrus.com/login,176,0,0
+1762799239331,3072,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,78341,2645,10,10,null,1281,73903,611
+1762799316657,327,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-42,text,true,,26128,1069,9,9,https://paa.sit.sdlc-quattrus.com/login,154,0,0
+1762799316657,154,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-42,,true,,158,534,9,9,https://paa.sit.sdlc-quattrus.com/2311,154,0,0
+1762799316812,172,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-42,text,true,,25970,535,9,9,https://paa.sit.sdlc-quattrus.com/login,171,0,0
+1762799239532,3552,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,78341,2645,9,9,null,1384,73901,614
+1762799316906,328,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-43,text,true,,26128,1069,8,8,https://paa.sit.sdlc-quattrus.com/login,157,0,0
+1762799316906,157,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-43,,true,,158,534,8,8,https://paa.sit.sdlc-quattrus.com/2311,157,0,0
+1762799317063,171,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-43,text,true,,25970,535,8,8,https://paa.sit.sdlc-quattrus.com/login,170,0,0
+1762799239731,3602,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,78349,2645,8,8,null,1230,73903,607
+1762799317010,348,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-44,text,true,,26128,1069,7,7,https://paa.sit.sdlc-quattrus.com/login,154,0,0
+1762799317010,154,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-44,,true,,158,534,7,7,https://paa.sit.sdlc-quattrus.com/2311,154,0,0
+1762799317165,193,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-44,text,true,,25970,535,7,7,https://paa.sit.sdlc-quattrus.com/login,193,0,0
+1762799239931,3527,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,78333,2645,7,7,null,1381,73902,604
+1762799317504,357,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-45,text,true,,26128,1069,6,6,https://paa.sit.sdlc-quattrus.com/login,160,0,0
+1762799317504,160,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-45,,true,,158,534,6,6,https://paa.sit.sdlc-quattrus.com/2311,160,0,0
+1762799317665,196,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-45,text,true,,25970,535,6,6,https://paa.sit.sdlc-quattrus.com/login,195,0,0
+1762799240132,3828,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,78341,2645,6,6,null,1593,73902,608
+1762799317606,363,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-46,text,true,,26128,1069,5,5,https://paa.sit.sdlc-quattrus.com/login,156,0,0
+1762799317606,156,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-46,,true,,158,534,5,5,https://paa.sit.sdlc-quattrus.com/2311,156,0,0
+1762799317763,206,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-46,text,true,,25970,535,5,5,https://paa.sit.sdlc-quattrus.com/login,206,0,0
+1762799240333,3736,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,78328,2645,5,5,null,1386,73902,608
+1762799317914,327,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-47,text,true,,26123,1069,4,4,https://paa.sit.sdlc-quattrus.com/login,155,0,0
+1762799317914,155,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-47,,true,,158,534,4,4,https://paa.sit.sdlc-quattrus.com/2311,155,0,0
+1762799318070,171,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-47,text,true,,25965,535,4,4,https://paa.sit.sdlc-quattrus.com/login,170,0,0
+1762799240532,3806,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,78336,2645,4,4,null,1682,73905,611
+1762799317924,339,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-48,text,true,,26128,1069,3,3,https://paa.sit.sdlc-quattrus.com/login,155,0,0
+1762799317924,155,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-48,,true,,158,534,3,3,https://paa.sit.sdlc-quattrus.com/2311,155,0,0
+1762799318079,184,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-48,text,true,,25970,535,3,3,https://paa.sit.sdlc-quattrus.com/login,183,0,0
+1762799240732,3629,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,78341,2645,3,3,null,1493,73903,605
+1762799318026,350,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-50,text,true,,26136,1069,2,2,https://paa.sit.sdlc-quattrus.com/login,157,0,0
+1762799318026,157,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-50,,true,,158,534,2,2,https://paa.sit.sdlc-quattrus.com/2311,157,0,0
+1762799318183,193,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-50,text,true,,25978,535,2,2,https://paa.sit.sdlc-quattrus.com/login,192,0,0
+1762799241132,3342,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,78341,2645,2,2,null,1677,73903,607
+1762799318112,355,https://paa.sit.sdlc-quattrus.com/2311,200,OK,Thread Group 1-49,text,true,,26128,1069,1,1,https://paa.sit.sdlc-quattrus.com/login,155,0,0
+1762799318112,155,https://paa.sit.sdlc-quattrus.com/2311-0,307,Temporary Redirect,Thread Group 1-49,,true,,158,534,1,1,https://paa.sit.sdlc-quattrus.com/2311,155,0,0
+1762799318268,199,https://paa.sit.sdlc-quattrus.com/2311-1,200,OK,Thread Group 1-49,text,true,,25970,535,1,1,https://paa.sit.sdlc-quattrus.com/login,199,0,0
+1762799240933,3632,Test Load,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,78333,2645,1,1,null,1975,73903,609
