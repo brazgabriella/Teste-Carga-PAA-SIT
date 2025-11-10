@@ -39,6 +39,12 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 | Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                        |
 | Teste de estresse                | `Estresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`        |
 
+## Teste 04
+
+| Cenário                          |                                                                    |
+| -------------------------------- | ------------------------------------------------------------------ |
+| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                        |
+| Teste de estresse                | `Estresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`        |
 
 ## Ferramentas utilizadas
 
